@@ -1,2 +1,2 @@
-# the-adventures-of-an-entrant
-test
+# the-adventures-of-an-entrant - идея проекта 
+
