@@ -1,1 +1,1 @@
-# the-adventures-of-an-entrant
+# Приключения абитуриента
